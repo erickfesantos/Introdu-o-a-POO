@@ -55,3 +55,8 @@
   cursor:pointer;
   width: 70px;
 }
+.caixasAnotacoes{
+  height: 20px;
+  width: 20px;
+  background-color: rgb(39,44,64);
+}
